@@ -1,1 +1,3 @@
-# typing-speed-app
+# Typing-Speed-App
+
+Speed Typing Test Desktop App
