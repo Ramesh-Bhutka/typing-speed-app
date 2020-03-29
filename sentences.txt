@@ -1,0 +1,3 @@
+What does the source code of this Python object look like?
+Here we’ll discuss IPython’s tools to quickly access this information.
+Every Python object has various attributes and methods associated with it.
